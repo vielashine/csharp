@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "sinav ve sozlulerle gecti kaldi/1.0.0": {
+        "runtime": {
+          "sinav ve sozlulerle gecti kaldi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sinav ve sozlulerle gecti kaldi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Aziz Furkan\Documents\Visual Studio 2022\sinav ve sozlulerle gecti kaldi\bin\Debug\net6.0\sinav ve sozlulerle gecti kaldi.exe
+C:\Users\Aziz Furkan\Documents\Visual Studio 2022\sinav ve sozlulerle gecti kaldi\bin\Debug\net6.0\sinav ve sozlulerle gecti kaldi.deps.json
+C:\Users\Aziz Furkan\Documents\Visual Studio 2022\sinav ve sozlulerle gecti kaldi\bin\Debug\net6.0\sinav ve sozlulerle gecti kaldi.runtimeconfig.json
+C:\Users\Aziz Furkan\Documents\Visual Studio 2022\sinav ve sozlulerle gecti kaldi\bin\Debug\net6.0\sinav ve sozlulerle gecti kaldi.dll
+C:\Users\Aziz Furkan\Documents\Visual Studio 2022\sinav ve sozlulerle gecti kaldi\bin\Debug\net6.0\sinav ve sozlulerle gecti kaldi.pdb
+C:\Users\Aziz Furkan\Documents\Visual Studio 2022\sinav ve sozlulerle gecti kaldi\obj\Debug\net6.0\sinav ve sozlulerle gecti kaldi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aziz Furkan\Documents\Visual Studio 2022\sinav ve sozlulerle gecti kaldi\obj\Debug\net6.0\sinav ve sozlulerle gecti kaldi.AssemblyInfoInputs.cache
+C:\Users\Aziz Furkan\Documents\Visual Studio 2022\sinav ve sozlulerle gecti kaldi\obj\Debug\net6.0\sinav ve sozlulerle gecti kaldi.AssemblyInfo.cs
+C:\Users\Aziz Furkan\Documents\Visual Studio 2022\sinav ve sozlulerle gecti kaldi\obj\Debug\net6.0\sinav ve sozlulerle gecti kaldi.csproj.CoreCompileInputs.cache
+C:\Users\Aziz Furkan\Documents\Visual Studio 2022\sinav ve sozlulerle gecti kaldi\obj\Debug\net6.0\sinav ve sozlulerle gecti kaldi.dll
+C:\Users\Aziz Furkan\Documents\Visual Studio 2022\sinav ve sozlulerle gecti kaldi\obj\Debug\net6.0\refint\sinav ve sozlulerle gecti kaldi.dll
+C:\Users\Aziz Furkan\Documents\Visual Studio 2022\sinav ve sozlulerle gecti kaldi\obj\Debug\net6.0\sinav ve sozlulerle gecti kaldi.pdb
+C:\Users\Aziz Furkan\Documents\Visual Studio 2022\sinav ve sozlulerle gecti kaldi\obj\Debug\net6.0\sinav ve sozlulerle gecti kaldi.genruntimeconfig.cache
+C:\Users\Aziz Furkan\Documents\Visual Studio 2022\sinav ve sozlulerle gecti kaldi\obj\Debug\net6.0\ref\sinav ve sozlulerle gecti kaldi.dll
