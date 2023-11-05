@@ -1,0 +1,10 @@
+D:\Kadir Camoglu\Projeler\Programlama ve Veritabanı Mantığı\Projeler\Sozlukv2\Sozlukv2\bin\Debug\Sozlukv2.exe
+D:\Kadir Camoglu\Projeler\Programlama ve Veritabanı Mantığı\Projeler\Sozlukv2\Sozlukv2\bin\Debug\Sozlukv2.pdb
+D:\Kadir Camoglu\Projeler\Programlama ve Veritabanı Mantığı\Projeler\Sozlukv2\Sozlukv2\obj\Debug\ResolveAssemblyReference.cache
+D:\Kadir Camoglu\Projeler\Programlama ve Veritabanı Mantığı\Projeler\Sozlukv2\Sozlukv2\obj\Debug\Sozlukv2.Form1.resources
+D:\Kadir Camoglu\Projeler\Programlama ve Veritabanı Mantığı\Projeler\Sozlukv2\Sozlukv2\obj\Debug\Sozlukv2.Properties.Resources.resources
+D:\Kadir Camoglu\Projeler\Programlama ve Veritabanı Mantığı\Projeler\Sozlukv2\Sozlukv2\obj\Debug\Sozlukv2.csproj.GenerateResource.Cache
+D:\Kadir Camoglu\Projeler\Programlama ve Veritabanı Mantığı\Projeler\Sozlukv2\Sozlukv2\obj\Debug\Sozlukv2.exe
+D:\Kadir Camoglu\Projeler\Programlama ve Veritabanı Mantığı\Projeler\Sozlukv2\Sozlukv2\obj\Debug\Sozlukv2.pdb
+D:\Kadir Camoglu\Projeler\Programlama ve Veritabanı Mantığı\DVD\PROJELER\Sozluk2\Sozlukv2\obj\Debug\Sozlukv2.exe
+D:\Kadir Camoglu\Projeler\Programlama ve Veritabanı Mantığı\DVD\PROJELER\Sozluk2\Sozlukv2\obj\Debug\Sozlukv2.pdb

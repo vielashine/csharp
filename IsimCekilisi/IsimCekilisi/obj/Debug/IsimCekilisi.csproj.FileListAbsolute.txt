@@ -1,0 +1,8 @@
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\IsimCekilisi\bin\Debug\IsimCekilisi.exe
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\IsimCekilisi\bin\Debug\IsimCekilisi.pdb
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\IsimCekilisi\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\IsimCekilisi\obj\Debug\IsimCekilisi.Form1.resources
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\IsimCekilisi\obj\Debug\IsimCekilisi.Properties.Resources.resources
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\IsimCekilisi\obj\Debug\IsimCekilisi.csproj.GenerateResource.Cache
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\IsimCekilisi\obj\Debug\IsimCekilisi.exe
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\IsimCekilisi\obj\Debug\IsimCekilisi.pdb

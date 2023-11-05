@@ -1,0 +1,12 @@
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\HesapMakinesiv1\bin\Debug\HesapMakinesiv1.exe
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\HesapMakinesiv1\bin\Debug\HesapMakinesiv1.pdb
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\HesapMakinesiv1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\HesapMakinesiv1\obj\Debug\HesapMakinesiv1.Form1.resources
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\HesapMakinesiv1\obj\Debug\HesapMakinesiv1.Properties.Resources.resources
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\HesapMakinesiv1\obj\Debug\HesapMakinesiv1.csproj.GenerateResource.Cache
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\HesapMakinesiv1\obj\Debug\HesapMakinesiv1.exe
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\HesapMakinesiv1\obj\Debug\HesapMakinesiv1.pdb
+C:\Documents and Settings\kalu\Belgelerim\Visual Studio 2008\Projects\HesapMakinesiv1\HesapMakinesiv1\obj\Debug\HesapMakinesiv1.exe
+C:\Documents and Settings\kalu\Belgelerim\Visual Studio 2008\Projects\HesapMakinesiv1\HesapMakinesiv1\obj\Debug\HesapMakinesiv1.pdb
+D:\Kadir Camoglu\Projeler\Programlama ve Veritabanı Mantığı\Projeler\HesapMakinesiv2\HesapMakinesiv1\obj\Debug\HesapMakinesiv1.exe
+D:\Kadir Camoglu\Projeler\Programlama ve Veritabanı Mantığı\Projeler\HesapMakinesiv2\HesapMakinesiv1\obj\Debug\HesapMakinesiv1.pdb

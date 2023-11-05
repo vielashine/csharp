@@ -1,0 +1,10 @@
+C:\Documents and Settings\kalu\Belgelerim\Visual Studio 2008\Projects\MetinselBirlestirme\MetinselBirlestirme\bin\Debug\MetinselBirlestirme.exe
+C:\Documents and Settings\kalu\Belgelerim\Visual Studio 2008\Projects\MetinselBirlestirme\MetinselBirlestirme\bin\Debug\MetinselBirlestirme.pdb
+C:\Documents and Settings\kalu\Belgelerim\Visual Studio 2008\Projects\MetinselBirlestirme\MetinselBirlestirme\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kalu\Belgelerim\Visual Studio 2008\Projects\MetinselBirlestirme\MetinselBirlestirme\obj\Debug\MetinselToplama.Form1.resources
+C:\Documents and Settings\kalu\Belgelerim\Visual Studio 2008\Projects\MetinselBirlestirme\MetinselBirlestirme\obj\Debug\MetinselToplama.Properties.Resources.resources
+C:\Documents and Settings\kalu\Belgelerim\Visual Studio 2008\Projects\MetinselBirlestirme\MetinselBirlestirme\obj\Debug\MetinselBirlestirme.csproj.GenerateResource.Cache
+C:\Documents and Settings\kalu\Belgelerim\Visual Studio 2008\Projects\MetinselBirlestirme\MetinselBirlestirme\obj\Debug\MetinselBirlestirme.exe
+C:\Documents and Settings\kalu\Belgelerim\Visual Studio 2008\Projects\MetinselBirlestirme\MetinselBirlestirme\obj\Debug\MetinselBirlestirme.pdb
+D:\Kadir Camoglu\Projeler\Programlama ve Veritabanı Mantığı\_Diger\Projeler\MetinselBirlestirme\MetinselBirlestirme\obj\Debug\MetinselBirlestirme.exe
+D:\Kadir Camoglu\Projeler\Programlama ve Veritabanı Mantığı\_Diger\Projeler\MetinselBirlestirme\MetinselBirlestirme\obj\Debug\MetinselBirlestirme.pdb

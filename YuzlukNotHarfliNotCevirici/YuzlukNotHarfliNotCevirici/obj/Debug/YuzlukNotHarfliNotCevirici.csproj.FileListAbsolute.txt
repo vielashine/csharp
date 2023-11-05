@@ -1,0 +1,16 @@
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\YuzlukNotHarfliNotCevirici\bin\Debug\YuzlukNotHarfliNotCevirici.exe
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\YuzlukNotHarfliNotCevirici\bin\Debug\YuzlukNotHarfliNotCevirici.pdb
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\YuzlukNotHarfliNotCevirici\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\YuzlukNotHarfliNotCevirici\obj\Debug\YuzlukNotHarfliNotCevirici.Form1.resources
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\YuzlukNotHarfliNotCevirici\obj\Debug\YuzlukNotHarfliNotCevirici.Properties.Resources.resources
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\YuzlukNotHarfliNotCevirici\obj\Debug\YuzlukNotHarfliNotCevirici.csproj.GenerateResource.Cache
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\YuzlukNotHarfliNotCevirici\obj\Debug\YuzlukNotHarfliNotCevirici.exe
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\YuzlukNotHarfliNotCevirici\obj\Debug\YuzlukNotHarfliNotCevirici.pdb
+C:\Documents and Settings\kalu\Belgelerim\Visual Studio 2008\Projects\YuzlukNotHarfliNotCevirici\YuzlukNotHarfliNotCevirici\obj\Debug\YuzlukNotHarfliNotCevirici.exe
+C:\Documents and Settings\kalu\Belgelerim\Visual Studio 2008\Projects\YuzlukNotHarfliNotCevirici\YuzlukNotHarfliNotCevirici\obj\Debug\YuzlukNotHarfliNotCevirici.pdb
+C:\Documents and Settings\kalu\Belgelerim\Visual Studio 2008\Projects\YuzlukNotHarfliNotCevirici\YuzlukNotHarfliNotCevirici\bin\Debug\YuzlukNotHarfliNotCevirici.exe
+C:\Documents and Settings\kalu\Belgelerim\Visual Studio 2008\Projects\YuzlukNotHarfliNotCevirici\YuzlukNotHarfliNotCevirici\bin\Debug\YuzlukNotHarfliNotCevirici.pdb
+C:\Documents and Settings\kalu\Belgelerim\Visual Studio 2008\Projects\YuzlukNotHarfliNotCevirici\YuzlukNotHarfliNotCevirici\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kalu\Belgelerim\Visual Studio 2008\Projects\YuzlukNotHarfliNotCevirici\YuzlukNotHarfliNotCevirici\obj\Debug\YuzlukNotHarfliNotCevirici.Form1.resources
+C:\Documents and Settings\kalu\Belgelerim\Visual Studio 2008\Projects\YuzlukNotHarfliNotCevirici\YuzlukNotHarfliNotCevirici\obj\Debug\YuzlukNotHarfliNotCevirici.Properties.Resources.resources
+C:\Documents and Settings\kalu\Belgelerim\Visual Studio 2008\Projects\YuzlukNotHarfliNotCevirici\YuzlukNotHarfliNotCevirici\obj\Debug\YuzlukNotHarfliNotCevirici.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+D:\VSProjects\UrunYonetcisi\UrunYonetcisi\bin\Debug\UrunYonetcisi.exe
+D:\VSProjects\UrunYonetcisi\UrunYonetcisi\bin\Debug\UrunYonetcisi.pdb
+D:\VSProjects\UrunYonetcisi\UrunYonetcisi\obj\Debug\ResolveAssemblyReference.cache
+D:\VSProjects\UrunYonetcisi\UrunYonetcisi\obj\Debug\UrunYonetcisi.Form1.resources
+D:\VSProjects\UrunYonetcisi\UrunYonetcisi\obj\Debug\UrunYonetcisi.Properties.Resources.resources
+D:\VSProjects\UrunYonetcisi\UrunYonetcisi\obj\Debug\UrunYonetcisi.csproj.GenerateResource.Cache
+D:\VSProjects\UrunYonetcisi\UrunYonetcisi\obj\Debug\UrunYonetcisi.exe
+D:\VSProjects\UrunYonetcisi\UrunYonetcisi\obj\Debug\UrunYonetcisi.pdb

@@ -1,0 +1,8 @@
+C:\Documents and Settings\kalu\Belgelerim\Visual Studio 2008\Projects\YayginKontroller\YayginKontroller\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kalu\Belgelerim\Visual Studio 2008\Projects\YayginKontroller\YayginKontroller\obj\Release\YayginKontroller.Form1.resources
+C:\Documents and Settings\kalu\Belgelerim\Visual Studio 2008\Projects\YayginKontroller\YayginKontroller\obj\Release\YayginKontroller.Properties.Resources.resources
+C:\Documents and Settings\kalu\Belgelerim\Visual Studio 2008\Projects\YayginKontroller\YayginKontroller\obj\Release\YayginKontroller.csproj.GenerateResource.Cache
+C:\Documents and Settings\kalu\Belgelerim\Visual Studio 2008\Projects\YayginKontroller\YayginKontroller\bin\Release\YayginKontroller.exe
+C:\Documents and Settings\kalu\Belgelerim\Visual Studio 2008\Projects\YayginKontroller\YayginKontroller\bin\Release\YayginKontroller.pdb
+C:\Documents and Settings\kalu\Belgelerim\Visual Studio 2008\Projects\YayginKontroller\YayginKontroller\obj\Release\YayginKontroller.exe
+C:\Documents and Settings\kalu\Belgelerim\Visual Studio 2008\Projects\YayginKontroller\YayginKontroller\obj\Release\YayginKontroller.pdb

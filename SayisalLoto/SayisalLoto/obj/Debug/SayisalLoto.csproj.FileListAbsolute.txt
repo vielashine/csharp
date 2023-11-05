@@ -1,0 +1,8 @@
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\SayisalLoto\bin\Debug\SayisalLoto.exe
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\SayisalLoto\bin\Debug\SayisalLoto.pdb
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\SayisalLoto\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\SayisalLoto\obj\Debug\SayisalLoto.Form1.resources
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\SayisalLoto\obj\Debug\SayisalLoto.Properties.Resources.resources
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\SayisalLoto\obj\Debug\SayisalLoto.csproj.GenerateResource.Cache
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\SayisalLoto\obj\Debug\SayisalLoto.exe
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\SayisalLoto\obj\Debug\SayisalLoto.pdb

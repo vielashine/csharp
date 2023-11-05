@@ -1,0 +1,8 @@
+D:\Kadir Camoglu\Projeler\Programlama ve Veritabanı Mantığı\Projeler\HesapMakinesiv2\HesapMakinesiv1\bin\Debug\HesapMakinesiv1.exe
+D:\Kadir Camoglu\Projeler\Programlama ve Veritabanı Mantığı\Projeler\HesapMakinesiv2\HesapMakinesiv1\bin\Debug\HesapMakinesiv1.pdb
+D:\Kadir Camoglu\Projeler\Programlama ve Veritabanı Mantığı\Projeler\HesapMakinesiv2\HesapMakinesiv1\obj\Debug\ResolveAssemblyReference.cache
+D:\Kadir Camoglu\Projeler\Programlama ve Veritabanı Mantığı\Projeler\HesapMakinesiv2\HesapMakinesiv1\obj\Debug\HesapMakinesiv2.Form1.resources
+D:\Kadir Camoglu\Projeler\Programlama ve Veritabanı Mantığı\Projeler\HesapMakinesiv2\HesapMakinesiv1\obj\Debug\HesapMakinesiv2.Properties.Resources.resources
+D:\Kadir Camoglu\Projeler\Programlama ve Veritabanı Mantığı\Projeler\HesapMakinesiv2\HesapMakinesiv1\obj\Debug\HesapMakinesiv2.csproj.GenerateResource.Cache
+D:\Kadir Camoglu\Projeler\Programlama ve Veritabanı Mantığı\Projeler\HesapMakinesiv2\HesapMakinesiv1\obj\Debug\HesapMakinesiv1.exe
+D:\Kadir Camoglu\Projeler\Programlama ve Veritabanı Mantığı\Projeler\HesapMakinesiv2\HesapMakinesiv1\obj\Debug\HesapMakinesiv1.pdb

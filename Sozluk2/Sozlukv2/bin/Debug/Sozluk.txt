@@ -1,0 +1,10 @@
+araba,car
+siyah,black
+kırmızı,red
+nane,mint
+ağaç,tree
+elma,apple
+kalem,pen
+bebek,baby
+mavi,blue
+masa,table

@@ -1,0 +1,10 @@
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\Sozlukv1\bin\Debug\Sozlukv1.exe
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\Sozlukv1\bin\Debug\Sozlukv1.pdb
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\Sozlukv1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\Sozlukv1\obj\Debug\Sozlukv1.Form1.resources
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\Sozlukv1\obj\Debug\Sozlukv1.Properties.Resources.resources
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\Sozlukv1\obj\Debug\Sozlukv1.csproj.GenerateResource.Cache
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\Sozlukv1\obj\Debug\Sozlukv1.exe
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\Sozlukv1\obj\Debug\Sozlukv1.pdb
+D:\Kadir Camoglu\Projeler\Programlama ve Veritabanı Mantığı\Projeler\Sozlukv1\Sozlukv1\obj\Debug\Sozlukv1.exe
+D:\Kadir Camoglu\Projeler\Programlama ve Veritabanı Mantığı\Projeler\Sozlukv1\Sozlukv1\obj\Debug\Sozlukv1.pdb

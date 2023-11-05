@@ -1,0 +1,8 @@
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\SayiBulmacaOyunu\bin\Debug\SayiBulmacaOyunu.exe
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\SayiBulmacaOyunu\bin\Debug\SayiBulmacaOyunu.pdb
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\SayiBulmacaOyunu\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\SayiBulmacaOyunu\obj\Debug\SayiBulmacaOyunu.Form1.resources
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\SayiBulmacaOyunu\obj\Debug\SayiBulmacaOyunu.Properties.Resources.resources
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\SayiBulmacaOyunu\obj\Debug\SayiBulmacaOyunu.csproj.GenerateResource.Cache
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\SayiBulmacaOyunu\obj\Debug\SayiBulmacaOyunu.exe
+C:\Documents and Settings\kalu\Local Settings\Application Data\Temporary Projects\SayiBulmacaOyunu\obj\Debug\SayiBulmacaOyunu.pdb

@@ -1,0 +1,9 @@
+﻿araba,car
+masa,table
+kalem,pen
+mavi,blue
+siyah,black
+kırmızı,red
+ağaç,tree
+bebek,baby
+elma,apple
